@@ -1,1 +1,11 @@
-
+p{
+    color: rgb(4, 111, 75);
+    text-align: justify;
+    background-color: rgba(240, 240, 117,0.8);
+    /* background-image:url(img13.jpg); */
+    text-indent: 50px;
+    font-style: oblique;
+    font-variant: inherit;
+    font-weight: bolder;
+    padding: 10px;
+}
