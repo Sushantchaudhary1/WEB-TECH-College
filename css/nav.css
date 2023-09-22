@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar li{
+    display: inline-block;
+   
+    background-color: aliceblue;
+    padding-left:10px;
+    padding-right:10px;
+    border-radius: 5px;
+
+}
+.navbar{
+    width: 80%;
+    height: 40px;
+    margin: 0px auto;
+    line-height: 40px;
+    
+}
+.navbar li a{
+    color:blueviolet;
+    text-decoration: none;
+    display: block;
+    border-radius: 2px;
+    width: 100px;
+    text-align: center;
+    
+}
+.navbar li a:hover{
+    font-size: 100%;
+    background-color: white;
+    color: red;
+    border-radius: 5px;
+}
